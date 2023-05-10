@@ -74,7 +74,9 @@ def __init__(self):
         self.ok = []
         self.cp = []
         self.loop = 0
-        
+     
+os.system('xdg-open https://facebook.com/ag420gamingyt')
+
 logo = ("""\033[1;37m
 ====================================================================================================
   _____  _    _ _____  ______
@@ -91,7 +93,7 @@ logo = ("""\033[1;37m
 [] TYPE      : FREE
 ==================================================""")
 
-
+os.system('xdg-open https://chat.whatsapp.com/G6gj4XIXczyGnDrzbfH6Ek/')
 
 logo1 = ("""\033[1;37m
 
