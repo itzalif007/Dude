@@ -25,7 +25,9 @@ python Dude.py
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzalif007&show_icons=true&locale=en" alt="itzalif007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzalif007&" alt="itzalif007" /></p>
-
+-----------------------------------
+ 🍁TOOLS COMMAND #2🔥 
+-----------------------------------
 https://github.com/itzalif007/Dude
 
 cd Dude
