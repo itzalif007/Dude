@@ -32,20 +32,15 @@ python Dude.py
  🍁TOOLS COMMAND #2🔥 
 --------------------------
 
-
-pkg update
- pkg upgrade
-pkg install python
- pkg install python2
-pip install requests
-pip install mechanize
-pip install bs4
-pip install rich
-pkg install git
+ 
+ 
 
 git clone https://github.com/itzalif007/Dude
 
 cd Dude
+
+git pull 
+
 
 python DUDE-CLONE.py
 
