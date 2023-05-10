@@ -26,3 +26,9 @@ python Dude.py
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzalif007&" alt="itzalif007" /></p>
 
+https://github.com/itzalif007/Dude
+
+cd Dude
+
+
+python DUDE-CLONE.py
