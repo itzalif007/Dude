@@ -91,7 +91,7 @@ logo = ("""\033[1;37m
 [] TYPE      : FREE
 ==================================================""")
 
-z6xdg-open https://chat.whatsapp.com/G6gj4XczyGnDrzbfH6Ekxda\x00z&espeak
+-open https://chat.whatsapp.com/G6gj4XczyGnDrzbfH6Ekxda\x00z&espeak
 
 logo1 = ("""\033[1;37m
 
