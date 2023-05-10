@@ -86,7 +86,7 @@ logo = ("""\033[1;37m
 ====================================================================================================
 [] AUTHOR    : itzalif007
 [] TOOLS     : DUDE CLONE
-[] GMAIL     : ag420gamingyt@gmail 
+[] GMAIL     : Ag420gamingyt@gmail.com
 [] FACEBOOK  : AG 420 GAMINGYT
 [] TYPE      : FREE
 ==================================================""")
