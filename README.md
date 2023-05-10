@@ -45,10 +45,4 @@ git pull
 python DUDE-CLONE.py
 
 
-git clone https://github.com/itzalif007/Dude
-
-
-cd Dude
-
-
-python DUDE-CLONE.py
+🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁
