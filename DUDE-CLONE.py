@@ -91,7 +91,7 @@ logo = ("""\033[1;37m
 [] TYPE      : FREE
 ==================================================""")
 
-z6xdg-open https://facebook.com/groups/1396656887527638/\xda\x00z&espeak
+
 
 logo1 = ("""\033[1;37m
 
