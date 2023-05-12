@@ -32,7 +32,7 @@ python Dude.py
  🍁TOOLS COMMAND #2🔥 
 --------------------------
 
- 
+ DUDE .MY
  
 
 git clone https://github.com/itzalif007/Dude
