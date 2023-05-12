@@ -1,4 +1,4 @@
-# Dude  # RMDude.py
+# Dude  # DUDE-CLONE
 
 OR  FDude.py
 -----------------------------------
