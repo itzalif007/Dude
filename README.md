@@ -9,7 +9,7 @@ git clone https://github.com/itzalif007/Dude
 
 cd Dude
 
-python Dude.py
+python FDude.py
 
 '''
 
